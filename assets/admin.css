@@ -1,0 +1,6 @@
+tr.status-cupri_failed td,tr.status-cupri_failed th,tr.status-cupri_failed{
+	background-color: #ddd;
+}
+tr.status-cupri_paid td,tr.status-cupri_paid th,tr.status-cupri_paid{
+	background-color: #CEFF45;
+}
